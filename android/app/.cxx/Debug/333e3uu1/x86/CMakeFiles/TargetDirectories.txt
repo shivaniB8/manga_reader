@@ -1,0 +1,2 @@
+/Users/appteam/Downloads/flutter_manga_reader-main/android/app/.cxx/Debug/333e3uu1/x86/CMakeFiles/edit_cache.dir
+/Users/appteam/Downloads/flutter_manga_reader-main/android/app/.cxx/Debug/333e3uu1/x86/CMakeFiles/rebuild_cache.dir
